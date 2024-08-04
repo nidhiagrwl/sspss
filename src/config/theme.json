@@ -1,0 +1,27 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#FFA500",
+        "body": "#FFFFFF",
+        "border": "#008000",
+        "theme_light": "#FFFFCC"
+      },
+      "text_color": {
+        "default": "#333333",
+        "dark": "#000000"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Noto Sans Devanagari, Noto Sans Gurmukhi, Noto Sans Bengali, Noto Sans, Lato:wght@300;400;700",
+      "primary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": "16",
+      "scale": "1.250"
+    }
+  }
+}
+
