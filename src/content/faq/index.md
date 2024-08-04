@@ -1,22 +1,38 @@
 ---
-title: Frequently Asked Questions
+title: श्री श्याम महोत्सव के आयोजन
 draft: false
 faqs:
-- title: Will updates also be free?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: अखंड ज्योत (Akhand Jyot)
+  answer: अखंड ज्योत एक महत्वपूर्ण धार्मिक अनुष्ठान है जिसमें एक दीपक को लगातार जलाया जाता है। यह दीपक 24 घंटे, 7 दिन और निरंतर जलता रहता है, जो श्रद्धा और भक्ति का प्रतीक है। यह अनुष्ठान विशेष अवसरों और त्योहारों पर किया जाता है और भक्तों को दिव्य ऊर्जा और आशीर्वाद प्रदान करता है। [और पढ़ें](#)
 
-- title: Discounts for students and Non Profit Organizations?
-  answer: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: छप्पन भोग (Chappan Bhog)
+  answer: छप्पन भोग एक पारंपरिक भोग है जिसमें 56 विभिन्न प्रकार के खाद्य पदार्थ भगवान को अर्पित किए जाते हैं। इसमें मिठाइयाँ, सब्जियाँ, दालें, और अन्य विभिन्न व्यंजन शामिल होते हैं। यह भोग धार्मिक उत्सवों और विशेष अवसरों पर तैयार किया जाता है, जो भक्तों की श्रद्धा और भक्ति को दर्शाता है। [और पढ़ें](#)
 
-- title: I need something unique, Can you make it?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: सवा मणी (Sawa Mani)
+  answer: सवा मणी एक विशेष धार्मिक अनुष्ठान है जिसमें एक मणी (धातु का टुकड़ा) भगवान के चरणों में अर्पित किया जाता है। यह अनुष्ठान शुभता और शक्ति का प्रतीक है और इसे खास धार्मिक अवसरों पर किया जाता है। सवा मणी का अर्पण भक्तों की गहरी श्रद्धा और विश्वास को प्रकट करता है। [और पढ़ें](#)
 
-- title: Is there any documentation and support?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: ड्राई फ्रूट भोग (Dry Fruit Bhog)
+  answer: ड्राई फ्रूट भोग में विभिन्न प्रकार के सूखे मेवे जैसे बादाम, काजू, पिस्ता, और किशमिश शामिल होते हैं। यह भोग भगवान को अर्पित किया जाता है और भक्तों के बीच वितरण भी किया जाता है। यह भोग श्रद्धा और समर्पण का प्रतीक होता है और धार्मिक अवसरों पर तैयार किया जाता है। [और पढ़ें](#)
 
-- title: Any refunds?
-  answer: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: फ्रूट भोग (Fruit Bhog)
+  answer: फ्रूट भोग में ताजे फल भगवान को अर्पित किए जाते हैं। यह भोग साधा और प्राकृतिक होता है, और इसे विशेष अवसरों और पूजा के समय पर तैयार किया जाता है। फल भगवान की पूजा में श्रद्धा और समर्पण को दर्शाते हैं। [और पढ़ें](#)
 
-- title: What is a product key?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: पान भोग (Pan Bhog)
+  answer: पान भोग में भगवान को पान का भोग अर्पित किया जाता है, जिसमें पान के पत्ते, सुपारी, चूना, और अन्य सामग्री शामिल होती है। यह भोग विशेष धार्मिक अवसरों पर अर्पित किया जाता है और भक्तों की श्रद्धा को प्रकट करता है। [और पढ़ें](#)
+
+- title: भजन (Bhajan)
+  answer: भजन धार्मिक गीत होते हैं जो भगवान की महिमा का गायन करते हैं। विभिन्न स्थानों से भजन गायकों को आमंत्रित किया जाता है, जो भक्ति संगीत के माध्यम से भक्तों को मानसिक शांति और आध्यात्मिक अनुभव प्रदान करते हैं। भजन विशेष पूजा और धार्मिक अनुष्ठानों के दौरान गाए जाते हैं। [और पढ़ें](#)
+
+- title: इत्र वर्षा (Itra Varsha)
+  answer: इत्र वर्षा एक दिव्य अनुष्ठान है जिसमें पूजा के दौरान इत्र (फूलों का सुगंधित तेल) की वर्षा की जाती है। यह अनुष्ठान वातावरण को पवित्र और सुगंधित बनाता है, और भक्तों को एक विशेष अनुभव प्रदान करता है। [और पढ़ें](#)
+
+- title: श्री श्याम भंडारा (Shri Shyam Bhandara)
+  answer: श्री श्याम भंडारा एक धार्मिक आयोजन है जिसमें बड़ी संख्या में भक्तों को भोजन प्रदान किया जाता है। यह भंडारा भगवान श्री श्याम की पूजा और आशीर्वाद के लिए आयोजित किया जाता है, और इसमें सभी को प्रेमपूर्वक भोजन कराया जाता है। [और पढ़ें](#)
+
+- title: दिव्य श्री श्याम दरबार सजावट - विशाल पंडाल (Divya Shri Shyam Darbar Sajawat - Vishal Pandal)
+  answer: दिव्य श्री श्याम दरबार सजावट एक भव्य पंडाल के साथ की जाती है जिसमें भगवान श्री श्याम की भव्य सजावट की जाती है। यह सजावट भक्तों को एक दिव्य अनुभव प्रदान करती है और धार्मिक उत्सवों के दौरान विशेष रूप से आयोजित की जाती है। [और पढ़ें](#)
+
+- title: श्याम बाबा झांकी (Shyam Baba Jhanki)
+  answer: श्याम बाबा झांकी एक विशेष धार्मिक प्रदर्शन है जिसमें भगवान श्री श्याम के विभिन्न रूपों और लीलाओं को दर्शाया जाता है। यह झांकी भव्य और रंगीन होती है, जो भक्तों को भगवान के दिव्य रूपों और उनके अद्भुत कर्मों की झलक प्रदान करती है। [और पढ़ें](#)
+
 ---

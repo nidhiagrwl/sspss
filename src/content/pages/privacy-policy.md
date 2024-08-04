@@ -1,29 +1,55 @@
 ---
-title: "Privacy"
+title: "गोपनीयता नीति"
 description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### परिचय:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**श्री श्याम प्रचार सेवा समिति (यहां "हम," "हमें," या "हमारा" के रूप में संदर्भित किया गया है) आपकी गोपनीयता का सम्मान करती है और आपकी व्यक्तिगत जानकारी की सुरक्षा के प्रति प्रतिबद्ध है। यह गोपनीयता नीति हमारी वेबसाइट पर आपके डेटा के संग्रहण, उपयोग, और संरक्षण के तरीकों को स्पष्ट करती है।**
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+**1. व्यक्तिगत जानकारी का संग्रहण:**
 
-#### Gathering of Personal Information
+हम आपकी व्यक्तिगत जानकारी जैसे नाम, ईमेल पता, फोन नंबर, और अन्य विवरण तब एकत्र करते हैं जब आप हमारी वेबसाइट पर फॉर्म भरते हैं, समाचार पत्र के लिए साइन अप करते हैं, या हमारी सेवाओं के बारे में जानकारी प्राप्त करने के लिए संपर्क करते हैं।
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**2. जानकारी का उपयोग:**
 
-#### Protection of Personal- Information
+आपकी एकत्रित की गई व्यक्तिगत जानकारी का उपयोग निम्नलिखित उद्देश्यों के लिए किया जा सकता है:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+हमारी सेवाओं और कार्यक्रमों की जानकारी प्रदान करना।
+आपके प्रश्नों या अनुरोधों का उत्तर देना।
+आपके साथ संपर्क बनाए रखना और आपको हमारे अपडेट्स और घोषणाओं की जानकारी देना।
+हमारी वेबसाइट और सेवाओं में सुधार करना।
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
 
-#### Privacy Policy Changes
+**3. जानकारी की सुरक्षा:**
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+हम आपकी व्यक्तिगत जानकारी की सुरक्षा के लिए उचित तकनीकी और संगठनात्मक उपायों को लागू करते हैं। आपकी जानकारी को अनधिकृत पहुंच, उपयोग, या प्रकटीकरण से बचाने के लिए हम सुरक्षा उपायों का पालन करते हैं।
+
+**4. तीसरे पक्ष के साथ जानकारी साझा करना:**
+
+हम आपकी व्यक्तिगत जानकारी को किसी भी तीसरे पक्ष के साथ साझा नहीं करते, सिवाय इसके कि जब:
+
+हमें कानूनी दायित्वों का पालन करने की आवश्यकता हो।
+हमारी सेवाओं के प्रदर्शन के लिए किसी सेवा प्रदाता की सहायता की आवश्यकता हो, और वे आपकी जानकारी की गोपनीयता की रक्षा करने के लिए प्रतिबद्ध हों।
+
+
+**5. कुकीज़ और ट्रैकिंग तकनीक:**
+
+हमारी वेबसाइट कुकीज़ और अन्य ट्रैकिंग तकनीकों का उपयोग कर सकती है ताकि आपकी ब्राउज़िंग प्राथमिकताओं को याद रखा जा सके और वेबसाइट के अनुभव को बेहतर बनाया जा सके। आप अपने ब्राउज़र की सेटिंग्स के माध्यम से कुकीज़ को नियंत्रित और अस्वीकार कर सकते हैं।
+
+**6. डेटा का संरक्षण और परिरक्षण:**
+
+हम आपकी व्यक्तिगत जानकारी को केवल उतने समय तक संरक्षित करते हैं, जितनी देर तक वह हमें आपके अनुरोधों और सेवाओं को पूरा करने के लिए आवश्यक होती है। इसके बाद, आपकी जानकारी को सुरक्षित रूप से नष्ट कर दिया जाएगा।
+
+**7. गोपनीयता नीति में परिवर्तन:**
+
+हम अपनी गोपनीयता नीति को समय-समय पर अपडेट कर सकते हैं। कोई भी बदलाव इस पृष्ठ पर प्रकाशित किए जाएंगे, और आपकी जानकारी की सुरक्षा के लिए हम आपको अपडेट्स के बारे में सूचित करेंगे।
+
+**8. संपर्क जानकारी:**
+
+अगर आपके पास हमारी गोपनीयता नीति या आपकी व्यक्तिगत जानकारी के उपयोग के बारे में कोई प्रश्न या चिंताएँ हैं, तो कृपया हमसे संपर्क करें |
+
+धन्यवाद!
+
+**श्री श्याम प्रचार सेवा समिति**

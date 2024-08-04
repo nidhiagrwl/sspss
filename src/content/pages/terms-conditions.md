@@ -1,29 +1,45 @@
 ---
-title: "Terms and Conditions"
+title: "नियम और शर्तें"
 description: "this is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+**1. स्वीकृति**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+वेबसाइट का उपयोग करके, आप इन नियमों और शर्तों को स्वीकार करते हैं। यदि आप इन शर्तों से असहमत हैं, तो कृपया इस साइट का उपयोग न करें।
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+**2. उपयोग की अनुमति**
 
-#### Gathering of Personal Information
+इस वेबसाइट का उपयोग केवल वैध और कानूनी उद्देश्यों के लिए किया जा सकता है। आप इस साइट को किसी भी गैरकानूनी गतिविधियों के लिए उपयोग नहीं कर सकते हैं, जैसे कि अवैध सामग्री का वितरण, साइट के कामकाज में हस्तक्षेप, या किसी अन्य व्यक्ति की गोपनीयता का उल्लंघन।
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+**3. सामग्री**
 
-#### Protection of Personal- Information
+वेबसाइट पर प्रदान की गई सभी सामग्री, जैसे कि पाठ, चित्र, ग्राफिक्स, और डिज़ाइन, हमारी संपत्ति हैं और किसी भी प्रकार से पुनरुत्पादित, वितरित, या प्रकाशित नहीं की जा सकती हैं, जब तक कि हमारी स्पष्ट अनुमति न हो।
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+**4. बौद्धिक संपदा**
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+हमारी वेबसाइट और इसके सभी सामग्री बौद्धिक संपदा अधिकारों के अंतर्गत आते हैं। आप किसी भी सामग्री को बिना पूर्व अनुमति के उपयोग, पुनरुत्पादित, या वितरित नहीं कर सकते हैं।
 
-#### Privacy Policy Changes
+**5. बाहरी लिंक**
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+वेबसाइट में तीसरे पक्ष की साइटों के लिंक हो सकते हैं। हम इन साइटों की सामग्री या उनके संचालन के लिए जिम्मेदार नहीं हैं। बाहरी लिंक का उपयोग आपकी जिम्मेदारी पर किया जाता है।
+
+**6. उपयोगकर्ता जिम्मेदारी**
+
+वेबसाइट का उपयोग करने पर, आप अपनी जानकारी की सटीकता और वेबसाइट पर किए गए किसी भी कार्य के लिए जिम्मेदार होते हैं। आप किसी भी प्रकार की धोखाधड़ी, झूठी जानकारी, या किसी भी गलत काम के लिए पूरी तरह से जिम्मेदार हैं।
+
+**7. गोपनीयता नीति**
+
+हम आपकी व्यक्तिगत जानकारी की सुरक्षा के लिए प्रतिबद्ध हैं। हमारी गोपनीयता नीति की जानकारी के लिए कृपया गोपनीयता नीति पृष्ठ पर जाएं। आपकी जानकारी का उपयोग केवल वेबसाइट के संचालन और आपकी सेवा के लिए किया जाएगा।
+
+**8. संशोधन और अपडेट**
+
+हम इन नियमों और शर्तों को समय-समय पर संशोधित कर सकते हैं। किसी भी परिवर्तन की जानकारी वेबसाइट पर प्रदर्शित की जाएगी। वेबसाइट का उपयोग करने पर, आप संशोधित शर्तों को स्वीकार करते हैं।
+
+**9. विवाद निवारण**
+
+इन शर्तों से संबंधित किसी भी विवाद का निवारण हमारे स्थानीय न्यायालयों द्वारा किया जाएगा। हम विवाद समाधान के लिए कानून और स्थानीय न्यायालयों के निर्णयों को स्वीकार करते हैं।
+
+**10. संपर्क**
+
+यदि आपके पास इन शर्तों के संबंध में कोई प्रश्न है या आप हमसे संपर्क करना चाहते हैं, तो कृपया हमारे संपर्क पृष्ठ पर जाएं।

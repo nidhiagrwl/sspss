@@ -1,74 +1,51 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "मुख्य पृष्ठ",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Pricing",
-      "url": "/pricing"
-    },
-    {
-      "name": "Contact",
-      "url": "/contact"
-    },
-    {
-      "name": "FAQ",
+      "name": "श्री श्याम महोत्सव",
       "url": "/faq"
+    },  
+    {
+      "name": "परिचय",
+      "url": "/parichay"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "आगामी कार्यक्रम",
+      "url": "/upcoming-events"
+    },
+ 
+    {
+      "name": "संपर्क",
+      "url": "/contact"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "श्री श्याम प्रचार सेवा समिति",
       "menu": [
+     
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
+          "text": "शीघ्र प्रारंभ",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "सहायता",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support",
-      "menu": [
-        {
-          "text": "FAQ",
+          "text": "आयोजन",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "गोपनीयता नीति",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "नियम और शर्तें",
           "url": "/terms-conditions"
         }
       ]

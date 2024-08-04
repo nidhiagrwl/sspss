@@ -13,6 +13,10 @@ const homepage = defineCollection({
         enable: z.boolean().default(true)
       })
     }).optional(),
+    event:z.object({
+      title:z.string().optional(),
+      events:z.array(z.object({title:z.string().optional(),photo:z.string().optional(),description:z.string()}))
+    }).optional(),
     feature: z.object({
       title: z.string().optional(),
       features: z.array(z.object({name: z.string().optional(), icon: z.string().optional(), content: z.string().optional()})),

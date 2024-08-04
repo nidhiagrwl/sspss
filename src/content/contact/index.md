@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "संपर्क करें"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: संपर्क विवरण
+  description: "***हमसे संपर्क करने के लिए निम्नलिखित विवरणों का उपयोग करें। आपकी किसी भी तरह की सहायता, सुझाव, या प्रश्नों के लिए हम यहां आपकी सेवा में हैं। कृपया हमसे संपर्क करने में संकोच न करें।***"
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: +91 94255 02977"
+    - "Mail: vinod.d265@rediffmail.com"
+    - "Address: Raipur, Chhattisgrah"
 ---
 

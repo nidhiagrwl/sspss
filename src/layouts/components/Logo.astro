@@ -17,12 +17,12 @@ const {
 } = config.site;
 ---
 
-<a href="/" class="navbar-brand block md:w-[150px] lg:w-auto">
+<a href="/" class="navbar-brand block md:w-[200px] lg:w-auto">
   {
     src || logo ? (
       <Image
-        width={logo_width.replace("px", "") * 2}
-        height={logo_height.replace("px", "") * 2}
+        width={logo_width.replace("px", "") * 4}
+        height={logo_height.replace("px", "") * 4}
         src={src ? src : logo}
         alt={title}
         style={{
@@ -37,3 +37,4 @@ const {
     )
   }
 </a>
+
