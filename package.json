@@ -1,8 +1,8 @@
 {
-  "name": "bigspring-light-astro",
+  "name": "श्री श्याम प्रचार सेवा समिति",
   "version": "2.0.0",
-  "description": "astro personal blog theme",
-  "author": "themefisher",
+  "description": "श्री श्याम प्रचार सेवा समिति website",
+  "author": "Nidhi",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
